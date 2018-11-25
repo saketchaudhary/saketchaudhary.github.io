@@ -4500,7 +4500,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
-  color: #777;
+  color: #FFDAB9;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -4600,7 +4600,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: #fff;
+  color:#FFE4B5;
   background-color: transparent;
 }
 .navbar-inverse .navbar-text {
@@ -6584,7 +6584,7 @@ button.close {
   td.visible-xs {
     display: table-cell !important;
   }
-  
+
 }
 @media (max-width: 767px) {
   .visible-xs-block {

@@ -53,18 +53,18 @@ body {
     Page Content
 ------------------------------------------*/
 
-.page-content, 
+.page-content,
 section { overflow: hidden; }
 
 /*
-    On Scroll Animations 
+    On Scroll Animations
 ------------------------------------------*/
 
 /*.animated { visibility: hidden; }
 .visible { visibility: visible; }*/
 
 /*
-    Spacing & Alignment 
+    Spacing & Alignment
 ------------------------------------------*/
 
 .roomy-150 {
@@ -450,7 +450,7 @@ Extra height css
     margin-right: 15px;
 }
 .m-l-15{
-    margin-left: 15px; 
+    margin-left: 15px;
 }
 .m-top-10 {
     margin-top: 10px;
@@ -713,9 +713,9 @@ textarea::-ms-input-placeholder{
 }*/
 
 
-.transform_scal_rotate:hover img{ 
-    -webkit-transform: scale(1.1) rotate(4deg); 
-    transform: scale(1.1) rotate(4deg); 
+.transform_scal_rotate:hover img{
+    -webkit-transform: scale(1.1) rotate(4deg);
+    transform: scale(1.1) rotate(4deg);
 }
 
 .culmn{
@@ -770,9 +770,9 @@ textarea::-ms-input-placeholder{
     width: 50px;
     margin-top: -25px;
     margin-left: -25px;
-    -ms-transform: rotate(45deg); 
+    -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
-    transform: rotate(45deg); 
+    transform: rotate(45deg);
     -webkit-animation: loading-center-absolute 1.5s infinite;
     animation: loading-center-absolute 1.5s infinite;
 
@@ -810,7 +810,7 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes loading-center-absolute {
-    100% { 
+    100% {
         transform:  rotate(-45deg);
         -webkit-transform:  rotate(-45deg);
     }
@@ -825,11 +825,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_one {
-    25% { 
+    25% {
         transform: translate(0,-50px) rotate(-180deg);
         -webkit-transform: translate(0,-50px) rotate(-180deg);
-    } 
-    100% { 
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: translate(0,0) rotate(-180deg);
     }
@@ -842,11 +842,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_two {
-    25% { 
+    25% {
         transform: translate(50px,0) rotate(-180deg);
         -webkit-transform: translate(50px,0) rotate(-180deg);
-    } 
-    100% { 
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: translate(0,0) rotate(-180deg);
     }
@@ -858,11 +858,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_three {
-    25% { 
+    25% {
         transform:  translate(-50px,0) rotate(-180deg);
         -webkit-transform:  translate(-50px,0) rotate(-180deg);
-    } 
-    100% { 
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: rtranslate(0,0) rotate(-180deg);
     }
@@ -875,11 +875,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_four {
-    25% { 
-        transform: translate(0,50px) rotate(-180deg); 
-        -webkit-transform: translate(0,50px) rotate(-180deg);  
-    } 
-    100% { 
+    25% {
+        transform: translate(0,50px) rotate(-180deg);
+        -webkit-transform: translate(0,50px) rotate(-180deg);
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: translate(0,0) rotate(-180deg);
     }
@@ -893,8 +893,8 @@ Nav Menu style
 
 .navbar-brand {
     padding: 30px 15px;
-    font-family: 'Knewave', cursive;
-    font-size:48px;
+    font-family: 'Knewave';
+    font-size:30px;
 }
 .main-nav li{
     padding: 10px 0;
@@ -946,7 +946,7 @@ Home Section style
 
 
 /*scrooldown
--------------------*/ 
+-------------------*/
 
 @-webkit-keyframes scroll-ani {
     0% {
