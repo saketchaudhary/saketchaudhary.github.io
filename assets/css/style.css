@@ -912,8 +912,8 @@ Home Section style
 }
 .main_home{
     overflow: hidden;
-    padding-top: 350px;
-    padding-bottom: 450px;
+    padding-top: 140px;
+    padding-bottom: 550px;
 }
 .home-shadow {
     position: relative;
